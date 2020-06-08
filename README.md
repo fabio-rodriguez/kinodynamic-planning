@@ -13,4 +13,4 @@ Usage:
 
 Run the main program with the "-default" option to perform a random simulation of the planning algorithm.
 
-Run the main program without any options and set the heuristic parameters to plan trajectories with specific start and final flight states.
+Run the main program without any options to perform a simulation with a specific start and final state. The program will ask these and additional parameters. 
